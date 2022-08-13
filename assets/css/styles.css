@@ -344,15 +344,19 @@ img {
 
 .home__scroll {
   display: none;
+  transition: .3s;
+}
+.home__scroll:hover {
+  transform: translateY(.25rem);
+}
+
+.home__scroll:hover .home__scroll-arrow {
+  transition: .3s;
+  transform: scale(1.2, 1.2);
 }
 
 .home__scroll-button {
   color: var(--first-color);
-  transition: .3s;
-}
-
-.home__scroll-button:hover {
-  transform: translateY(.25rem);
 }
 
 .home__scroll-mouse {
@@ -368,7 +372,6 @@ img {
 
 .home__scroll-arrow {
   font-size: var(--h2-font-size)
-
 }
 
 /*==================== BUTTONS ====================*/
