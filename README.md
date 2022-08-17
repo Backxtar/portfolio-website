@@ -14,7 +14,7 @@ Diese Webseite ist eine statische Webseite. Es wurde kein Baukasten oder ein CMS
 
 ## Screenshot
 <p align="center">
-  <img src="/assets/img/Portfolio%20-%20Jörg%20Quick_rez.png">
+  <img width="900" src="/assets/img/Portfolio%20-%20Jörg%20Quick.png">
 </p>
 
 ## Lizenz
