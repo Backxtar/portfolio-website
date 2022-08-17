@@ -12,6 +12,9 @@ Eine Webseite, die einen modernen Lebenslauf darstellen soll. Gleichzeitig kann 
 
 Diese Webseite ist eine statische Webseite. Es wurde kein Baukasten oder ein CMS verwendet.
 
+## Screenshot
+![Full Webpage](/assets/img/Portfolio%20-%20Jörg%20Quick_rez.png)
+
 ## Lizenz
 
 ```
