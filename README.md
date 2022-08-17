@@ -12,6 +12,9 @@ Eine Webseite, die einen modernen Lebenslauf darstellen soll. Gleichzeitig kann 
 
 Diese Webseite ist eine statische Webseite. Es wurde kein Baukasten oder ein CMS verwendet.
 
+## Not working
+Zur Zeit funktioniert das Kontaktformular nicht, da das Backend dafür noch nicht implementiert ist!
+
 ## Screenshot
 <p align="center">
   <img width="900" src="/assets/img/Portfolio%20-%20Jörg%20Quick.png">
