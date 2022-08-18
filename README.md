@@ -5,6 +5,8 @@
 # Moderne Portfolio Website
 Eine Webseite, die einen modernen Lebenslauf darstellen soll. Gleichzeitig kann man dadurch seine Fähigkeiten unter Beweis stellen.
 
+Diese Webseite ist immernoch in Entwicklung!
+
 ## Benutzte Sprachen
 * HTML
 * CSS
