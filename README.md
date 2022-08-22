@@ -7,6 +7,8 @@ Eine Webseite, die einen modernen Lebenslauf darstellen soll. Gleichzeitig kann 
 
 Diese Webseite ist immernoch in Entwicklung!
 
+Link to livepage: https://backxtar.github.io/portfolio-website/
+
 ## Benutzte Sprachen
 * HTML
 * CSS
